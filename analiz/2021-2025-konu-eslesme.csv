@@ -1,0 +1,501 @@
+yil,no,alan,kod,hesap_mi,kok_tipi,bilgi_turu,kisa_konu
+2021,1,GM,GM01,0,OLUMSUZ,Hukuki sonuç,kararlar: iptal/geri alma/talep
+2021,2,GM,GM01,0,OLUMSUZ,Tanım,GK md.3 tanımlar
+2021,3,GM,GM01,0,OLUMSUZ,Kapsam,bilgilerin gizliliği
+2021,4,GM,GM02,0,OLUMSUZ,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2021,5,GM,TR05,0,OLUMSUZ,İstisna,GK tarife hükümleri (md. 15-18)
+2021,6,GM,GM01,0,OLUMSUZ,İstisna,çalışma saatleri/mesai dışı
+2021,7,GM,GM04,0,OLUMSUZ,Süre,giriş özet beyanı süreleri
+2021,8,GM,GM04,0,DÜZ,Mükellef/sorumlu,özet beyan yükümlüsü
+2021,9,GM,GM02,0,OLUMSUZ,Oran/tutar/eşik,ilişkili kişiler
+2021,10,GM,GM04,0,OLUMSUZ,Usul/prosedür,gümrüğe sunma/boşaltma/aktarma
+2021,11,GM,GM03,0,ÖNCÜLLÜ-4,Hukuki sonuç,yanıltıcı menşe ibaresi
+2021,12,GM,GM23,0,DÜZ,Süre,fikri haklar: süreler/alıkoyma
+2021,13,GM,GM01,0,OLUMSUZ,Tanım,GK md.3 tanımlar
+2021,14,GM,GM09,0,DOĞRU,İstisna,DİR geri ödeme sistemi
+2021,15,GM,GM09,0,OLUMSUZ,Şart,DİR eşdeğer eşya/önceden ihracat
+2021,16,GM,GM03,0,OLUMSUZ,Hukuki sonuç,BTB/BMB
+2021,17,GM,GM23,0,OLUMSUZ,Süre,fikri haklar: süreler/alıkoyma
+2021,18,GM,GM20,0,DÜZ,Oran/tutar/eşik,onaylanmış kişi statüsü
+2021,19,GM,GM02,0,OLUMSUZ,Tanım,kıymet yöntemleri (hesaplanmış/son yöntem)
+2021,20,GM,GM05,0,ÖNCÜLLÜ-4,Usul/prosedür,basitleştirilmiş usul/tamamlayıcı beyan
+2021,21,GM,GM03,0,OLUMSUZ,Yaptırım/ceza,menşe şahadetnamesi
+2021,22,GM,GM13,0,DÜZ,Hukuki sonuç,geri gelen eşya
+2021,23,GM,GM04,0,OLUMSUZ,Şart,transit beyanının özet beyan sayılması
+2021,24,GM,GM13,0,OLUMSUZ,Belge,geri gelen eşya
+2021,25,GM,GM16,0,OLUMSUZ,Hukuki sonuç,dış sefer gemileri
+2021,26,GM,GM16,0,OLUMSUZ,Belge,kumanya/akaryakıt
+2021,27,GM,GM14,0,OLUMSUZ,Hukuki sonuç,diplomatik muafiyet
+2021,28,GM,GM15,0,DÜZ,Belge,posta işlemleri
+2021,29,GM,GM24,0,DÜZ,Süre,tasfiye süreleri/usul
+2021,30,GM,GM04,0,OLUMSUZ,Usul/prosedür,özet beyan değişikliği
+2021,31,GM,GM21,0,EŞLEŞTİRME,Usul/prosedür,YGM tespit kodları
+2021,32,GM,GM17,0,DOĞRU,Yaptırım/ceza,gecikme zammı/faiz
+2021,33,GM,GM21,0,OLUMSUZ,Mükellef/sorumlu,dolaylı temsil/müşavir sorumluluğu
+2021,34,GM,GM18,0,OLUMSUZ,Kapsam,geri verme-kaldırma halleri
+2021,35,GM,GM04,0,OLUMSUZ,Kapsam,geçici depolama yerleri
+2021,36,GM,GM04,0,OLUMSUZ,Süre,çıkış özet beyanı
+2021,37,GM,GM14,0,OLUMSUZ,Muafiyet,ev eşyası/şahsi eşya muafiyeti
+2021,38,GM,GM17,0,OLUMSUZ,Doğuran olay,gümrük yükümlülüğünün doğuşu
+2021,39,GM,GM17,0,OLUMSUZ,İstisna,götürü teminat (genel/GİKY)
+2021,40,GM,GM18,0,DÜZ,Süre,geri verme: kusurlu eşya
+2021,41,SAİR,SR01,0,DÜZ,Usul/prosedür,5607 elkoyma/tasfiye/yönetmelikler
+2021,42,SAİR,SR01,0,OLUMSUZ,Tanım,5607 elkoyma/tasfiye/yönetmelikler
+2021,43,SAİR,SR01,0,DÜZ,Mükellef/sorumlu,5607 suç tipleri/fail/ceza
+2021,44,SAİR,SR01,0,DOĞRU,Yaptırım/ceza,5607 suç tipleri/fail/ceza
+2021,45,SAİR,SR01,0,DÜZ,Şart,5607 suç tipleri/fail/ceza
+2021,46,SAİR,SR01,0,OLUMSUZ,Usul/prosedür,5607 usul (katılma/dava/zamanaşımı)
+2021,47,SAİR,SR01,0,DÜZ,Makam/yetki,5607 elkoyma/tasfiye/yönetmelikler
+2021,48,SAİR,SR01,0,DÜZ,Yaptırım/ceza,5607 suç tipleri/fail/ceza
+2021,49,SAİR,SR01,0,OLUMSUZ,Tanım,5607 elkoyma/tasfiye/yönetmelikler
+2021,50,SAİR,SR01,0,DÜZ,Makam/yetki,5607 elkoyma/tasfiye/yönetmelikler
+2021,51,GM,GM24,0,SIRALAMA,Usul/prosedür,tasfiye satış bedeli dağıtımı
+2021,52,SAİR,SR15,0,OLUMSUZ,Tanım,ödeme şekilleri
+2021,53,SAİR,SR12,0,OLUMSUZ,Kapsam,DİR Kararı genel/avantajlar
+2021,54,SAİR,SR06,0,DÜZ,Kapsam,ihracı yasak/ön izne bağlı mallar
+2021,55,SAİR,SR07,0,OLUMSUZ,İstisna,ithalat rejimi genel hükümler
+2021,56,GM,GM15,0,OLUMSUZ,Usul/prosedür,posta işlemleri
+2021,57,SAİR,SR02,0,OLUMSUZ,Oran/tutar/eşik,TCMB kambiyo genelgesi
+2021,58,SAİR,SR09,0,ÖNCÜLLÜ-3,Şart,damping/sübvansiyon (3577)
+2021,59,GM,TR05,0,OLUMSUZ,Kapsam,GK tarife hükümleri (md. 15-18)
+2021,60,SAİR,SR15,0,OLUMSUZ,Belge,konşimento/taşıma belgeleri
+2021,61,SAİR,SR02,0,OLUMSUZ,Kapsam,TCMB kur/konvertibl döviz
+2021,62,SAİR,SR02,0,KAVRAM,Tanım,kambiyo temel kavramlar
+2021,63,SAİR,SR02,0,OLUMSUZ,Kapsam,TCMB kambiyo genelgesi
+2021,64,SAİR,SR15,0,OLUMSUZ,Tanım,karşı ticaret/takas
+2021,65,SAİR,SR09,0,OLUMSUZ,Makam/yetki,damping/sübvansiyon (3577)
+2021,66,SAİR,SR13,0,OLUMSUZ,Kapsam,DYY (4875)
+2021,67,SAİR,SR15,0,DÜZ,Tanım,Incoterms
+2021,68,SAİR,SR15,0,KAVRAM,Tanım,karşı ticaret/takas
+2021,69,GM,GM15,0,DÜZ,Süre,posta işlemleri
+2021,70,GM,GM15,0,OLUMSUZ,Kapsam,posta işlemleri
+2021,71,GM,GM11,0,DÜZ,Oran/tutar/eşik,geçici ithalat kısmi muafiyet
+2021,72,GM,GM01,0,OLUMSUZ,Tanım,GK md.3 tanımlar
+2021,73,GM,TR05,0,OLUMSUZ,Makam/yetki,GK tarife hükümleri (md. 15-18)
+2021,74,GM,GM07,0,OLUMSUZ,İstisna,transit teminat
+2021,75,GM,GM22,0,OLUMSUZ,Hukuki sonuç,sınır ticareti
+2021,76,GM,GM13,0,DÜZ,Süre,geri gelen eşya
+2021,77,GM,GM17,0,DÜZ,Kaynak/dayanak,teminat genel hükümleri
+2021,78,GM,GM21,0,ÖNCÜLLÜ-3,Usul/prosedür,dolaylı temsil/müşavir sorumluluğu
+2021,79,GM,GM19,0,DÜZ,Yaptırım/ceza,GK 235-236 kaçak/usulsüz ihracat cezası
+2021,80,GM,GM17,0,OLUMSUZ,Mükellef/sorumlu,gümrük yükümlülüğünün doğuşu
+2021,81,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,taşıyıcı ortam/yazılım kıymeti
+2021,82,HESAP,GM19,1,HESAP,Yaptırım/ceza,uzlaşma
+2021,83,HESAP,GM19,1,HESAP,Yaptırım/ceza,ek tahakkuk + GK 234 cezası (vaka)
+2021,84,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2021,85,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2021,86,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,hesaplanmış kıymet
+2021,87,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2021,88,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,aynı/benzer eşya yöntemi
+2021,89,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2021,90,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2021,91,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 25-27 mineral ürünler/yakıtlar
+2021,92,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 90-97 çeşitli (silah/saat/çalgı/oyuncak/sanat)
+2021,93,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 50-63 tekstil
+2021,94,TARİFE,TR03,0,DOĞRU,Sınıflandırma kuralı,GYKK 3(b) set
+2021,95,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 90-97 çeşitli (silah/saat/çalgı/oyuncak/sanat)
+2021,96,TARİFE,TR01,0,DOĞRU,Sınıflandırma kuralı,Fasıl 6-14 bitkisel ürünler
+2021,97,TARİFE,TR03,0,OLUMSUZ,Sınıflandırma kuralı,GYKK 1-2(a)-6 ve uygulama sırası
+2021,98,TARİFE,TR02,0,DOĞRU,Sınıflandırma kuralı,Fasıl 28-38 kimya/eczacılık/kozmetik
+2021,99,TARİFE,TR02,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 68-71 taş/cam/kıymetli metal
+2021,100,TARİFE,TR03,0,VAKA,Sınıflandırma kuralı,GYKK 3(b) set
+2022,1,SAİR,SR02,0,DÜZ,Makam/yetki,kıymetli maden/altın ithalatı
+2022,2,SAİR,SR05,0,DÜZ,İstisna,KKDF kapsam/istisna
+2022,3,GM,GM17,0,OLUMSUZ,Hukuki sonuç,zamanaşımı
+2022,4,SAİR,SR13,0,DOĞRU,Usul/prosedür,yatırım teşvik belgesi
+2022,5,SAİR,SR05,0,DÜZ,Matrah/kıymet unsuru,KKDF kapsam/istisna
+2022,6,GM,GM17,0,DOĞRU,Oran/tutar/eşik,götürü teminat (genel/GİKY)
+2022,7,GM,GM20,0,DÜZ,Kapsam,YYS kolaylıkları/şartları
+2022,8,GM,GM11,0,OLUMSUZ,Belge,geçici ihracat (taşıt)
+2022,9,GM,SR10,0,ÖNCÜLLÜ-5,Makam/yetki,menşe/dolaşım belgesi onay makamı
+2022,10,SAİR,SR06,0,BOŞLUK,Makam/yetki,konsinye ihracat
+2022,11,GM,SR10,0,ÖNCÜLLÜ-5,Makam/yetki,menşe/dolaşım belgesi onay makamı
+2022,12,SAİR,SR09,0,OLUMSUZ,Hukuki sonuç,korunma önlemleri
+2022,13,SAİR,SR11,0,ÖNCÜLLÜ-4,Kapsam,GB kapsamı/1-95 OKK
+2022,14,GM,GM12,0,ÖNCÜLLÜ-4,Süre,fiili ihraç/ihracat kapatma
+2022,15,SAİR,SR01,0,DOĞRU,Yaptırım/ceza,5607 etkin pişmanlık
+2022,16,SAİR,SR08,0,DÜZ,Belge,teknik düzenlemeler/uygunluk işareti
+2022,17,SAİR,SR08,0,OLUMSUZ,Kapsam,tarım ürünleri ithalat denetimi
+2022,18,SAİR,SR07,0,OLUMSUZ,İstisna,ek mali yükümlülük (İRK)
+2022,19,SAİR,SR02,0,OLUMSUZ,Tanım,kambiyo temel kavramlar
+2022,20,SAİR,SR01,0,OLUMSUZ,Yaptırım/ceza,5607 suç tipleri/fail/ceza
+2022,21,SAİR,SR07,0,ÖNCÜLLÜ-4,Kapsam,ithalat rejimi genel hükümler
+2022,22,GM,GM18,0,DÜZ,Süre,geri verme: beyanname iptali
+2022,23,SAİR,SR10,0,OLUMSUZ,Kapsam,STA/TTA taraf ülkeler
+2022,24,GM,GM03,0,DÜZ,Şart,tercihsiz menşe liste kuralları
+2022,25,GM,GM01,0,DOĞRU,Makam/yetki,gümrük idareleri
+2022,26,SAİR,SR09,0,DÜZ,Süre,damping/sübvansiyon (3577)
+2022,27,GM,GM23,0,ÖNCÜLLÜ-4,Hukuki sonuç,fikri haklar: yasak işlemler
+2022,28,GM,GM09,0,OLUMSUZ,Şart,DİR izin/şartlar
+2022,29,SAİR,SR15,0,OLUMSUZ,Kapsam,Incoterms
+2022,30,SAİR,GM22,0,OLUMSUZ,Makam/yetki,sınır ticareti
+2022,31,SAİR,SR01,0,ÖNCÜLLÜ-3,Makam/yetki,5607 usul (katılma/dava/zamanaşımı)
+2022,32,GM,GM11,0,OLUMSUZ,Süre,geçici ithalat (taşıt)
+2022,33,GM,GM21,0,DÜZ,Süre,müşavir disiplin
+2022,34,SAİR,SR10,0,ÖNCÜLLÜ-5,Kapsam,GTS/Form A
+2022,35,SAİR,SR06,0,DÜZ,Kapsam,ihracı yasak/ön izne bağlı mallar
+2022,36,GM,GM11,0,OLUMSUZ,Kapsam,geçici ithalat sözlü beyan/kapsam
+2022,37,GM,SR10,0,OLUMSUZ,Şart,A.TR dolaşım belgesi
+2022,38,GM,GM23,0,DÜZ,Süre,fikri haklar: süreler/alıkoyma
+2022,39,SAİR,SR08,0,OLUMSUZ,Yaptırım/ceza,teknik düzenlemeler/uygunluk işareti
+2022,40,SAİR,SR06,0,ÖNCÜLLÜ-4,Şart,bedelsiz ihracat
+2022,41,HESAP,GM08,1,HESAP,Oran/tutar/eşik,götürü teminat (antrepo)
+2022,42,SAİR,GM09,0,ÖNCÜLLÜ-4,Doğuran olay,telafi edici vergi
+2022,43,GM,GM02,0,OLUMSUZ,Şart,ilişkili kişiler
+2022,44,GM,GM12,0,DÜZ,Belge,ihracat beyannamesi
+2022,45,SAİR,SR06,0,ÖNCÜLLÜ-4,Usul/prosedür,özel ihracat türleri (kayda bağlı/kiralama)
+2022,46,GM,SR16,0,OLUMSUZ,Usul/prosedür,TIR
+2022,47,GM,GM05,0,OLUMSUZ,Usul/prosedür,dış ticaret denetimi gümrükte kontrol
+2022,48,GM,GM02,0,OLUMSUZ,Kapsam,istisnai kıymet
+2022,49,GM,GM02,0,DOĞRU,Yaptırım/ceza,istisnai kıymet
+2022,50,SAİR,SR03,0,DÜZ,Matrah/kıymet unsuru,KDV özel matrah/istisna
+2022,51,GM,GM07,0,ÖNCÜLLÜ-5,Şart,transit teminat
+2022,52,GM,GM02,0,DÜZ,Matrah/kıymet unsuru,satış bedeli yöntemi şartları
+2022,53,SAİR,SR04,0,OLUMSUZ,Doğuran olay,ÖTV doğuş/ilk iktisap
+2022,54,GM,GM05,0,DOĞRU,Süre,belge saklama
+2022,55,SAİR,SR04,0,DOĞRU,Usul/prosedür,ÖTV (I) liste/teminat
+2022,56,GM,GM21,0,BOŞLUK,Oran/tutar/eşik,asgari ücret tarifesi
+2022,57,SAİR,SR04,0,DÜZ,Matrah/kıymet unsuru,ÖTV (III) liste/cetvel
+2022,58,GM,GM04,0,ÖNCÜLLÜ-5,Makam/yetki,geçici depolama yerleri
+2022,59,GM,GM04,0,OLUMSUZ,Makam/yetki,geçici depolama yerleri
+2022,60,GM,GM08,0,OLUMSUZ,Şart,antrepo açma/izin şartları
+2022,61,GM,GM07,0,KAVRAM,Tanım,NCTS/transit tanımlar
+2022,62,GM,GM20,0,DÜZ,Süre,onaylanmış kişi statüsü
+2022,63,GM,GM07,0,OLUMSUZ,Belge,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2022,64,GM,GM14,0,DOĞRU,Hukuki sonuç,muafen gelen eşyanın devri
+2022,65,SAİR,SR15,0,OLUMSUZ,Kapsam,Incoterms
+2022,66,GM,GM07,0,OLUMSUZ,Şart,transit teminat
+2022,67,GM,GM08,0,DÜZ,Süre,antrepo izin geri alma/kusur
+2022,68,GM,GM08,0,OLUMSUZ,Makam/yetki,götürü teminat (antrepo)
+2022,69,GM,GM13,0,DÜZ,Süre,geri gelen eşya
+2022,70,GM,GM15,0,DOĞRU,Oran/tutar/eşik,posta-hızlı kargo eşikleri
+2022,71,GM,GM14,0,ÖNCÜLLÜ-5,Şart,yerleşim yeri nakli taşıt muafiyeti
+2022,72,GM,GM15,0,OLUMSUZ,Kapsam,posta-hızlı kargo eşikleri
+2022,73,GM,GM15,0,OLUMSUZ,Şart,posta-hızlı kargo beyan/BS kodu
+2022,74,GM,GM02,0,OLUMSUZ,Tanım,ilişkili kişiler
+2022,75,TARİFE,TR01,0,DOĞRU,Sınıflandırma kuralı,Fasıl 50-63 tekstil
+2022,76,TARİFE,TR05,0,DÜZ,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2022,77,GM,GM05,0,DÜZ,Süre,muayene/numune
+2022,78,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 39-40 plastik/kauçuk
+2022,79,TARİFE,TR05,0,DÜZ,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2022,80,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,fasıl haritası/nomenklatür mantığı (genel)
+2022,81,TARİFE,TR03,0,DOĞRU,Sınıflandırma kuralı,GYKK 1-2(a)-6 ve uygulama sırası
+2022,82,TARİFE,TR05,0,OLUMSUZ,Sınıflandırma kuralı,GTİP yapısı/bölüm haritası
+2022,83,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 1-5 hayvansal ürünler
+2022,84,TARİFE,GM03,0,ÖNCÜLLÜ-3,Makam/yetki,BTB/BMB
+2022,85,TARİFE,TR02,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 64-67 ayakkabı/şemsiye
+2022,86,TARİFE,TR05,0,BOŞLUK,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2022,87,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,fasıl haritası/nomenklatür mantığı (genel)
+2022,88,TARİFE,TR03,0,VAKA,Sınıflandırma kuralı,GYKK 1-2(a)-6 ve uygulama sırası
+2022,89,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2022,90,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2022,91,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kullanılmış taşıt kıymeti
+2022,92,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,royalti/lisans ücreti
+2022,93,HESAP,SR04,1,HESAP,Oran/tutar/eşik,ÖTV hesabı (III liste)
+2022,94,HESAP,GM02,1,HESAP,Oran/tutar/eşik,kıymete dahil/hariç unsurlar (GK 27-28)
+2022,95,HESAP,GM19,1,HESAP,Yaptırım/ceza,GK 234 cezası/kendiliğinden bildirim
+2022,96,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,assist
+2022,97,HESAP,SR04,1,HESAP,Oran/tutar/eşik,ÖTV hesabı (III liste)
+2022,98,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,royalti/lisans ücreti
+2022,99,HESAP,SR07,1,HESAP,Oran/tutar/eşik,MIN/MAX birleşik vergi + İGV
+2022,100,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,royalti/lisans ücreti
+2023,1,SAİR,SR01,0,DÜZ,Yaptırım/ceza,5607 suç tipleri/fail/ceza
+2023,2,SAİR,SR01,0,OLUMSUZ,Kapsam,5607 kapsam/genel hükümler
+2023,3,SAİR,SR01,0,DOĞRU,Şart,5607 etkin pişmanlık
+2023,4,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 41-49 deri/ahşap/kâğıt
+2023,5,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 15-24 gıda/içecek/tütün
+2023,6,TARİFE,TR01,0,OLUMSUZ,Kapsam,Fasıl 68-71 taş/cam/kıymetli metal
+2023,7,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 64-67 ayakkabı/şemsiye
+2023,8,TARİFE,TR02,0,OLUMSUZ,Tanım,Fasıl 50-63 tekstil
+2023,9,TARİFE,TR01,0,DÜZ,Kapsam,Fasıl 90-97 çeşitli (silah/saat/çalgı/oyuncak/sanat)
+2023,10,TARİFE,TR04,0,VAKA,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2023,11,TARİFE,TR04,0,DÜZ,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2023,12,TARİFE,TR03,0,OLUMSUZ,İstisna,GYKK 1-2(a)-6 ve uygulama sırası
+2023,13,TARİFE,TR02,0,DÜZ,Oran/tutar/eşik,Fasıl 84-85 makine/elektrik
+2023,14,TARİFE,TR01,0,OLUMSUZ,Kapsam,Fasıl 41-49 deri/ahşap/kâğıt
+2023,15,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2023,16,TARİFE,TR02,0,DÜZ,Tanım,Fasıl 72-83 metaller (XV. Bölüm)
+2023,17,TARİFE,TR04,0,DÜZ,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2023,18,TARİFE,TR01,0,OLUMSUZ,Kapsam,Fasıl 86-89 taşıtlar (XVII. Bölüm)
+2023,19,TARİFE,TR04,0,VAKA,Sınıflandırma kuralı,Fasıl 86-89 taşıtlar (XVII. Bölüm)
+2023,20,TARİFE,TR01,0,OLUMSUZ,Kapsam,Fasıl 15-24 gıda/içecek/tütün
+2023,21,TARİFE,TR01,0,OLUMSUZ,Kapsam,Fasıl 84-85 makine/elektrik
+2023,22,GM,GM11,0,ÖNCÜLLÜ-4,Usul/prosedür,geçici ihracat (ticari kiralama)
+2023,23,GM,GM11,0,KAVRAM,Belge,geçici ithalat (taşıt)
+2023,24,GM,GM11,0,DÜZ,Şart,geçici ithalat teminat
+2023,25,GM,GM12,0,VAKA,Süre,fiili ihraç/ihracat kapatma
+2023,26,GM,GM19,0,DÜZ,Yaptırım/ceza,GK 241 usulsüzlük cezası
+2023,27,GM,GM13,0,DÜZ,Muafiyet,geri gelen eşya
+2023,28,GM,GM16,0,ÖNCÜLLÜ-4,Şart,kumanya/akaryakıt
+2023,29,GM,GM16,0,BOŞLUK,Oran/tutar/eşik,dış sefer gemileri
+2023,30,GM,GM16,0,VAKA,Süre,kumanya/akaryakıt
+2023,31,GM,GM22,0,OLUMSUZ,Makam/yetki,sınır ticareti
+2023,32,SAİR,SR06,0,DÜZ,Tanım,ihracat rejimi genel hükümler
+2023,33,SAİR,SR02,0,DÜZ,İstisna,ihracat bedeli (32/48 Tebliğ)
+2023,34,SAİR,SR02,0,ÖNCÜLLÜ-4,Süre,ihracat bedeli (32/48 Tebliğ)
+2023,35,GM,GM14,0,OLUMSUZ,Muafiyet,yolcu beraberi eşya
+2023,36,GM,GM14,0,ÖNCÜLLÜ-4,Şart,işyeri nakli muafiyeti
+2023,37,GM,GM14,0,BOŞLUK,Muafiyet,standart depo
+2023,38,GM,GM14,0,OLUMSUZ,Süre,muafen gelen eşyanın devri
+2023,39,GM,GM15,0,ÖNCÜLLÜ-5,Usul/prosedür,posta-hızlı kargo eşikleri
+2023,40,SAİR,SR13,0,ÖNCÜLLÜ-4,Muafiyet,yatırım teşvik belgesi
+2023,41,GM,GM17,0,OLUMSUZ,Hukuki sonuç,tahakkuk/tebliğ/ödeme/itiraz süreleri
+2023,42,GM,GM20,0,OLUMSUZ,Belge,yerinde gümrükleme
+2023,43,GM,GM05,0,ÖNCÜLLÜ-4,Belge,eksik beyan
+2023,44,GM,GM06,0,OLUMSUZ,Hukuki sonuç,nihai kullanım
+2023,45,GM,GM03,0,ÖNCÜLLÜ-3,Belge,menşe şahadetnamesi
+2023,46,GM,GM05,0,ÖNCÜLLÜ-4,Belge,beyanname ekleri
+2023,47,SAİR,SR10,0,EŞLEŞTİRME,Belge,anlaşma-menşe belgesi eşleştirme
+2023,48,GM,SR10,0,OLUMSUZ,Makam/yetki,tedarikçi beyanı/INF belgeleri
+2023,49,SAİR,SR02,0,OLUMSUZ,Tanım,kıymetli maden/altın ithalatı
+2023,50,SAİR,SR02,0,OLUMSUZ,Kapsam,kıymetli maden/altın ithalatı
+2023,51,SAİR,SR02,0,OLUMSUZ,Kapsam,kıymetli maden/altın ithalatı
+2023,52,SAİR,SR05,0,DÜZ,Oran/tutar/eşik,KKDF kapsam/istisna
+2023,53,SAİR,SR08,0,EŞLEŞTİRME,Usul/prosedür,ürün güvenliği denetimi (aşama/tebliğler)
+2023,54,GM,SR10,0,ÖNCÜLLÜ-4,Makam/yetki,menşe/dolaşım belgesi onay makamı
+2023,55,GM,SR10,0,DÜZ,Şart,A.TR dolaşım belgesi
+2023,56,GM,GM23,0,ÖNCÜLLÜ-4,Hukuki sonuç,fikri haklar: yasak işlemler
+2023,57,GM,SR10,0,EŞLEŞTİRME,Süre,tercihli menşe belgeleri: süreler/sonradan kontrol
+2023,58,GM,SR10,0,DOĞRU,Süre,tercihli menşe belgeleri: süreler/sonradan kontrol
+2023,59,SAİR,SR04,0,DÜZ,Tanım,ÖTV doğuş/ilk iktisap
+2023,60,SAİR,SR04,0,OLUMSUZ,Kapsam,ÖTV listeleri kapsamı
+2023,61,SAİR,SR14,0,DÜZ,Kurum/kuruluş,DTÖ/DGÖ kurumları
+2023,62,SAİR,SR15,0,DÜZ,Kaynak/dayanak,CISG
+2023,63,SAİR,SR03,0,KAVRAM,Mükellef/sorumlu,KDV mükellef/sorumlu
+2023,64,SAİR,SR15,0,SIRALAMA,Yükümlülük,Incoterms
+2023,65,SAİR,SR15,0,VAKA,Tanım,Incoterms
+2023,66,GM,GM02,0,VAKA,Tanım,aynı/benzer eşya yöntemi
+2023,67,GM,GM02,0,DÜZ,Matrah/kıymet unsuru,hasıla (27/1-d)
+2023,68,HESAP,GM19,1,HESAP,Yaptırım/ceza,uzlaşma
+2023,69,HESAP,GM19,1,HESAP,Yaptırım/ceza,GK 234 cezası/kendiliğinden bildirim
+2023,70,GM,GM20,0,OLUMSUZ,Kapsam,YYS kolaylıkları/şartları
+2023,71,SAİR,SR15,0,DÜZ,Kurum/kuruluş,Incoterms
+2023,72,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2023,73,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2023,74,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,taşıma-sigorta gideri (giriş yerine kadar)
+2023,75,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,serbest bölgeden ithalatta kıymet
+2023,76,HESAP,SR09,1,HESAP,Vergi hesabı,gözetim uygulaması
+2023,77,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,assist
+2023,78,HESAP,SR04,1,HESAP,Vergi hesabı,ÖTV hesabı (II liste/taşıt)
+2023,79,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,faiz/indirimler kıymet
+2023,80,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,hasıla (27/1-d)
+2023,81,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2023,82,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2023,83,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,aynı/benzer eşya yöntemi
+2023,84,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kullanılmış taşıt kıymeti
+2023,85,SAİR,SR11,0,OLUMSUZ,Kapsam,GB kapsamı/1-95 OKK
+2023,86,GM,GM07,0,OLUMSUZ,Belge,transit rejiminin sonlandırılması/alternatif kanıt
+2023,87,GM,GM07,0,OLUMSUZ,Yükümlülük,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2023,88,GM,GM07,0,ÖNCÜLLÜ-5,Mükellef/sorumlu,transit sorumlular/kefil
+2023,89,GM,GM12,0,VAKA,Makam/yetki,ihracat gümrük idaresi/çıkış idaresi
+2023,90,GM,GM07,0,DÜZ,Usul/prosedür,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2023,91,GM,GM07,0,DOĞRU,Usul/prosedür,transit beyanı
+2023,92,GM,GM07,0,OLUMSUZ,Belge,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2023,93,SAİR,SR16,0,ÖNCÜLLÜ-4,Kapsam,TIR
+2023,94,SAİR,SR08,0,ÖNCÜLLÜ-4,Yükümlülük,7223 ürün güvenliği kanunu
+2023,95,GM,GM22,0,ÖNCÜLLÜ-5,Şart,gümrüksüz satış mağazaları
+2023,96,GM,GM04,0,ÖNCÜLLÜ-4,Şart,geçici depolama yerleri
+2023,97,GM,GM08,0,OLUMSUZ,Hukuki sonuç,antrepo işlemleri/kullanıcı
+2023,98,GM,GM08,0,DOĞRU,Yaptırım/ceza,antrepo izin geri alma/kusur
+2023,99,HESAP,GM08,1,HESAP,Oran/tutar/eşik,götürü teminat (antrepo)
+2023,100,SAİR,SR10,0,OLUMSUZ,Kapsam,STA/TTA taraf ülkeler
+2024,1,SAİR,SR15,0,OLUMSUZ,Kapsam,Incoterms
+2024,2,TARİFE,TR05,0,DÜZ,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2024,3,SAİR,SR10,0,DÜZ,Belge,EUR.1/AKÇT-tarım ürünleri belge rejimi
+2024,4,SAİR,SR07,0,KAVRAM,Tanım,ithalat rejimi genel hükümler
+2024,5,SAİR,SR02,0,ÖNCÜLLÜ-5,Kapsam,kıymetli maden/altın ithalatı
+2024,6,GM,GM03,0,DÜZ,Şart,tercihsiz menşe liste kuralları
+2024,7,GM,GM14,0,DOĞRU,Muafiyet,standart depo
+2024,8,SAİR,SR03,0,OLUMSUZ,Kapsam,KDV oran listeleri
+2024,9,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2024,10,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2024,11,SAİR,SR14,0,DÜZ,Kaynak/dayanak,DTÖ Kıymet Anlaşması/kurumlar
+2024,12,GM,GM19,0,OLUMSUZ,Kapsam,uzlaşma
+2024,13,GM,GM02,0,OLUMSUZ,Şart,royalti/lisans ücreti
+2024,14,SAİR,SR05,0,OLUMSUZ,İstisna,KKDF kapsam/istisna
+2024,15,GM,GM02,0,OLUMSUZ,Kapsam,royalti/lisans ücreti
+2024,16,SAİR,SR04,0,OLUMSUZ,Kapsam,ÖTV listeleri kapsamı
+2024,17,SAİR,SR04,0,BOŞLUK,Hukuki sonuç,ÖTV listeleri kapsamı
+2024,18,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,dolaylı ödeme/fiilen ödenen fiyat
+2024,19,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,satış/alım komisyonu
+2024,20,SAİR,SR05,0,OLUMSUZ,İstisna,damga vergisi
+2024,21,GM,GM14,0,ÖNCÜLLÜ-4,Şart,yerleşim yeri nakli taşıt muafiyeti
+2024,22,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kullanılmış taşıt kıymeti
+2024,23,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,royalti/lisans ücreti
+2024,24,HESAP,SR07,1,HESAP,Oran/tutar/eşik,MIN/MAX birleşik vergi + İGV
+2024,25,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2024,26,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,assist
+2024,27,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,royalti/lisans ücreti
+2024,28,GM,GM02,0,KAVRAM,Tanım,akreditif/banka/finansman giderleri
+2024,29,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,KDV indirimi (gözetim farkı)
+2024,30,GM,GM08,0,DÜZ,Süre,antrepodan geri gönderme
+2024,31,GM,GM23,0,OLUMSUZ,Usul/prosedür,fikri haklar: süreler/alıkoyma
+2024,32,SAİR,SR10,0,OLUMSUZ,Belge,anlaşma-menşe belgesi eşleştirme
+2024,33,SAİR,SR10,0,DÜZ,Belge,menşe/dolaşım belgesi onay makamı
+2024,34,SAİR,SR07,0,OLUMSUZ,Kaynak/dayanak,ithalat rejimi genel hükümler
+2024,35,SAİR,SR10,0,EŞLEŞTİRME,Belge,anlaşma-menşe belgesi eşleştirme
+2024,36,SAİR,SR10,0,DÜZ,Kapsam,STA/TTA taraf ülkeler
+2024,37,SAİR,SR02,0,KAVRAM,Tanım,kambiyo temel kavramlar
+2024,38,GM,GM05,0,ÖNCÜLLÜ-5,Usul/prosedür,eşyanın teslimi
+2024,39,GM,GM08,0,ÖNCÜLLÜ-4,Usul/prosedür,antrepodan geri gönderme
+2024,40,SAİR,SR10,0,DÜZ,Kapsam,STA/TTA taraf ülkeler
+2024,41,SAİR,SR10,0,EŞLEŞTİRME,Belge,anlaşma-menşe belgesi eşleştirme
+2024,42,GM,GM06,0,ÖNCÜLLÜ-4,Usul/prosedür,serbest dolaşıma giriş (GK 74)
+2024,43,SAİR,SR10,0,VAKA,Hukuki sonuç,tercihli/tercihsiz menşe belgesi işlevi
+2024,44,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 39-40 plastik/kauçuk
+2024,45,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2024,46,TARİFE,TR05,0,DÜZ,Sınıflandırma kuralı,GTİP yapısı/bölüm haritası
+2024,47,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2024,48,TARİFE,TR02,0,DÜZ,Sınıflandırma kuralı,Fasıl 64-67 ayakkabı/şemsiye
+2024,49,TARİFE,TR02,0,DÜZ,Sınıflandırma kuralı,Fasıl 90-97 çeşitli (silah/saat/çalgı/oyuncak/sanat)
+2024,50,TARİFE,TR03,0,DÜZ,Sınıflandırma kuralı,GYKK 1-2(a)-6 ve uygulama sırası
+2024,51,TARİFE,TR01,0,EŞLEŞTİRME,Sınıflandırma kuralı,Fasıl 15-24 gıda/içecek/tütün
+2024,52,TARİFE,TR04,0,DÜZ,Sınıflandırma kuralı,Fasıl 28-38 kimya/eczacılık/kozmetik
+2024,53,TARİFE,TR02,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 6-14 bitkisel ürünler
+2024,54,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 6-14 bitkisel ürünler
+2024,55,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 41-49 deri/ahşap/kâğıt
+2024,56,TARİFE,TR05,0,OLUMSUZ,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2024,57,TARİFE,TR04,0,DÜZ,Sınıflandırma kuralı,Fasıl 86-89 taşıtlar (XVII. Bölüm)
+2024,58,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 64-67 ayakkabı/şemsiye
+2024,59,TARİFE,TR04,0,VAKA,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2024,60,TARİFE,TR02,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2024,61,GM,GM13,0,ÖNCÜLLÜ-4,İstisna,geri gelen eşya
+2024,62,GM,GM12,0,OLUMSUZ,Kapsam,ihracatta sözlü beyan
+2024,63,SAİR,SR06,0,BOŞLUK,Süre,konsinye ihracat
+2024,64,SAİR,SR05,0,DÜZ,Kapsam,DFİF
+2024,65,GM,GM09,0,OLUMSUZ,Tanım,DİR eşdeğer eşya/önceden ihracat
+2024,66,SAİR,SR12,0,OLUMSUZ,Süre,DİİB/izin süreleri
+2024,67,GM,GM09,0,ÖNCÜLLÜ-4,İstisna,DİR geri ödeme sistemi
+2024,68,SAİR,GM19,0,OLUMSUZ,Yaptırım/ceza,GK 238 cezası (rejim aykırılıkları)
+2024,69,GM,GM13,0,OLUMSUZ,Şart,geri gelen eşya
+2024,70,GM,GM13,0,DOĞRU,Süre,geri gelen eşya
+2024,71,GM,GM04,0,OLUMSUZ,Usul/prosedür,çıkış bildirimi
+2024,72,SAİR,SR06,0,ÖNCÜLLÜ-4,Usul/prosedür,özel ihracat türleri (kayda bağlı/kiralama)
+2024,73,GM,GM07,0,KAVRAM,Tanım,NCTS/transit tanımlar
+2024,74,GM,GM07,0,OLUMSUZ,Mükellef/sorumlu,transit sorumlular/kefil
+2024,75,GM,GM07,0,OLUMSUZ,Usul/prosedür,transit sorumlular/kefil
+2024,76,GM,GM07,0,OLUMSUZ,Usul/prosedür,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2024,77,SAİR,SR16,0,KAVRAM,Tanım,TIR
+2024,78,GM,SR16,0,OLUMSUZ,Usul/prosedür,TIR
+2024,79,SAİR,SR16,0,DOĞRU,Usul/prosedür,TIR
+2024,80,GM,GM14,0,DÜZ,Süre,muafen gelen eşyanın devri
+2024,81,GM,GM14,0,OLUMSUZ,Şart,evlilik eşyası
+2024,82,GM,GM15,0,OLUMSUZ,Makam/yetki,posta-hızlı kargo yetkili idareler
+2024,83,GM,GM08,0,OLUMSUZ,Oran/tutar/eşik,götürü teminat (antrepo)
+2024,84,GM,GM08,0,OLUMSUZ,Oran/tutar/eşik,götürü teminat (antrepo)
+2024,85,GM,GM08,0,OLUMSUZ,Makam/yetki,antrepo açma/izin şartları
+2024,86,GM,GM08,0,OLUMSUZ,Makam/yetki,antrepo açma/izin şartları
+2024,87,SAİR,SR01,0,ÖNCÜLLÜ-3,Şart,5607 suç tipleri/fail/ceza
+2024,88,SAİR,SR01,0,DÜZ,Hukuki sonuç,5607 elkoyma/tasfiye/yönetmelikler
+2024,89,SAİR,SR01,0,ÖNCÜLLÜ-3,Kapsam,5607 kapsam/genel hükümler
+2024,90,SAİR,SR01,0,ÖNCÜLLÜ-3,Usul/prosedür,5607 usul (katılma/dava/zamanaşımı)
+2024,91,GM,GM11,0,ÖNCÜLLÜ-4,Şart,geçici ithalat genel şartlar
+2024,92,GM,SR16,0,OLUMSUZ,Kapsam,ATA karnesi
+2024,93,GM,GM10,0,VAKA,Matrah/kıymet unsuru,hariçte işleme
+2024,94,GM,GM11,0,ÖNCÜLLÜ-3,Şart,geçici ithalat teminat
+2024,95,GM,GM20,0,OLUMSUZ,Makam/yetki,YYS kolaylıkları/şartları
+2024,96,GM,GM20,0,OLUMSUZ,Şart,izinli alıcı/gönderici
+2024,97,GM,GM20,0,DÜZ,Kapsam,YYS kolaylıkları/şartları
+2024,98,GM,GM18,0,DOĞRU,Şart,geri verme: kusurlu eşya
+2024,99,SAİR,GM17,0,ÖNCÜLLÜ-5,Süre,tecil
+2024,100,GM,GM21,0,DÜZ,Oran/tutar/eşik,asgari ücret tarifesi
+2025,1,SAİR,SR05,0,DÜZ,Kapsam,damga vergisi
+2025,2,SAİR,SR11,0,OLUMSUZ,Kapsam,GB kapsamı/1-95 OKK
+2025,3,SAİR,SR14,0,OLUMSUZ,Matrah/kıymet unsuru,DTÖ Kıymet Anlaşması/kurumlar
+2025,4,SAİR,SR14,0,DÜZ,Kaynak/dayanak,transfer fiyatlandırması
+2025,5,SAİR,SR14,0,OLUMSUZ,Kapsam,transfer fiyatlandırması
+2025,6,SAİR,SR14,0,DOĞRU,Hukuki sonuç,TFA (Ticaretin Kolaylaştırılması Anl.)
+2025,7,SAİR,SR04,0,OLUMSUZ,Kapsam,ÖTV listeleri kapsamı
+2025,8,SAİR,SR04,0,OLUMSUZ,İstisna,ÖTV istisnaları
+2025,9,SAİR,SR04,0,DÜZ,Kapsam,ÖTV listeleri kapsamı
+2025,10,SAİR,SR03,0,DOĞRU,Oran/tutar/eşik,KDV oran listeleri
+2025,11,SAİR,SR15,0,KAVRAM,Tanım,Incoterms
+2025,12,HESAP,SR03,1,HESAP,Matrah/kıymet unsuru,ithalde KDV matrahı
+2025,13,HESAP,GM19,1,HESAP,Yaptırım/ceza,GK 234 cezası/kendiliğinden bildirim
+2025,14,HESAP,GM19,1,HESAP,Matrah/kıymet unsuru,ek tahakkuk + GK 234 cezası (vaka)
+2025,15,HESAP,SR04,1,HESAP,Doğuran olay,ÖTV doğuş/ilk iktisap
+2025,16,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kullanılmış taşıt kıymeti
+2025,17,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,royalti/lisans ücreti
+2025,18,GM,GM02,0,VAKA,Tanım,aynı/benzer eşya yöntemi
+2025,19,HESAP,GM11,1,HESAP,Matrah/kıymet unsuru,geçici ithalattan serbest dolaşıma geçiş (tarih/faiz)
+2025,20,HESAP,GM02,1,HESAP,Matrah/kıymet unsuru,kıymete dahil/hariç unsurlar (GK 27-28)
+2025,21,GM,GM06,0,OLUMSUZ,Usul/prosedür,nihai kullanım
+2025,22,GM,GM06,0,DOĞRU,Şart,nihai kullanım
+2025,23,GM,GM05,0,ÖNCÜLLÜ-5,Belge,beyan: tek pozisyonda vergilendirme
+2025,24,GM,GM22,0,ÖNCÜLLÜ-5,Kapsam,gümrük statü belgesi/serbest bölge
+2025,25,GM,GM05,0,DÜZ,Usul/prosedür,basitleştirilmiş usul/BS kodları
+2025,26,SAİR,SR10,0,DÜZ,Kapsam,STA/TTA taraf ülkeler
+2025,27,SAİR,SR10,0,ÖNCÜLLÜ-4,Kapsam,A.TR dolaşım belgesi
+2025,28,GM,GM23,0,ÖNCÜLLÜ-5,Kapsam,fikri haklar: kapsam
+2025,29,GM,GM05,0,DÜZ,Belge,beyanname ekleri
+2025,30,SAİR,SR08,0,EŞLEŞTİRME,Makam/yetki,ürün güvenliği denetimi (aşama/tebliğler)
+2025,31,SAİR,SR02,0,OLUMSUZ,Hukuki sonuç,kıymetli maden/altın ithalatı
+2025,32,SAİR,SR10,0,OLUMSUZ,Hukuki sonuç,tercihli menşe belgeleri: süreler/sonradan kontrol
+2025,33,SAİR,SR10,0,EŞLEŞTİRME,Belge,anlaşma-menşe belgesi eşleştirme
+2025,34,SAİR,SR10,0,OLUMSUZ,Belge,EUR.1/AKÇT-tarım ürünleri belge rejimi
+2025,35,GM,GM03,0,ÖNCÜLLÜ-3,İstisna,menşe şahadetnamesi
+2025,36,SAİR,SR10,0,DÜZ,Belge,anlaşma-menşe belgesi eşleştirme
+2025,37,SAİR,SR02,0,ÖNCÜLLÜ-4,Tanım,kıymetli maden/altın ithalatı
+2025,38,SAİR,SR08,0,ÖNCÜLLÜ-4,Kapsam,TAREKS
+2025,39,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 1-5 hayvansal ürünler
+2025,40,TARİFE,TR02,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 90-97 çeşitli (silah/saat/çalgı/oyuncak/sanat)
+2025,41,TARİFE,TR02,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 64-67 ayakkabı/şemsiye
+2025,42,TARİFE,TR03,0,DOĞRU,Sınıflandırma kuralı,GYKK 3(b) set
+2025,43,TARİFE,TR04,0,KAVRAM,Sınıflandırma kuralı,Fasıl 1-5 hayvansal ürünler
+2025,44,TARİFE,TR05,0,OLUMSUZ,Sınıflandırma kuralı,GTİP yapısı/bölüm haritası
+2025,45,TARİFE,TR05,0,OLUMSUZ,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2025,46,TARİFE,TR01,0,SIRALAMA,Sınıflandırma kuralı,Fasıl 84-85 makine/elektrik
+2025,47,TARİFE,TR02,0,DÜZ,Sınıflandırma kuralı,Fasıl 86-89 taşıtlar (XVII. Bölüm)
+2025,48,TARİFE,TR05,0,OLUMSUZ,Kapsam,Fasıl 99 (milli fasıl)
+2025,49,TARİFE,TR04,0,KAVRAM,Sınıflandırma kuralı,Fasıl 28-38 kimya/eczacılık/kozmetik
+2025,50,TARİFE,TR01,0,OLUMSUZ,Sınıflandırma kuralı,Fasıl 6-14 bitkisel ürünler
+2025,51,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 6-14 bitkisel ürünler
+2025,52,TARİFE,TR05,0,OLUMSUZ,Sınıflandırma kuralı,HS 2022 değişiklikleri
+2025,53,TARİFE,TR05,0,DOĞRU,Makam/yetki,474 sayılı Kanun
+2025,54,TARİFE,TR04,0,DÜZ,Sınıflandırma kuralı,Fasıl 1-5 hayvansal ürünler
+2025,55,TARİFE,TR01,0,DÜZ,Sınıflandırma kuralı,Fasıl 39-40 plastik/kauçuk
+2025,56,GM,GM16,0,OLUMSUZ,Hukuki sonuç,dış sefer gemileri
+2025,57,GM,GM12,0,DÜZ,Kapsam,ihracatta basitleştirilmiş usul
+2025,58,SAİR,SR06,0,BOŞLUK,Kaynak/dayanak,ihracat rejimi genel hükümler
+2025,59,SAİR,SR02,0,BOŞLUK,Oran/tutar/eşik,nakit/Türk parası beyanı (yolcu)
+2025,60,SAİR,SR06,0,ÖNCÜLLÜ-5,Süre,konsinye ihracat
+2025,61,SAİR,SR06,0,DÜZ,Kapsam,ihracı yasak/ön izne bağlı mallar
+2025,62,HESAP,SR02,1,HESAP,Süre,ihracat bedeli (32/48 Tebliğ)
+2025,63,GM,GM09,0,ÖNCÜLLÜ-5,Hukuki sonuç,telafi edici vergi
+2025,64,SAİR,SR12,0,ÖNCÜLLÜ-5,Süre,DİİB/izin süreleri
+2025,65,GM,GM07,0,OLUMSUZ,Kapsam,transit teminat
+2025,66,GM,GM07,0,ÖNCÜLLÜ-4,Kapsam,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2025,67,GM,GM07,0,ÖNCÜLLÜ-3,Belge,transit: kaza/mücbir sebep kanıtı
+2025,68,GM,GM07,0,ÖNCÜLLÜ-4,Usul/prosedür,transit beyanı
+2025,69,GM,GM07,0,ÖNCÜLLÜ-4,Tanım,transit rejiminin sonlandırılması/alternatif kanıt
+2025,70,GM,GM07,0,ÖNCÜLLÜ-4,Şart,"transit basitleştirmeleri (izin, demiryolu, boru hattı)"
+2025,71,SAİR,SR16,0,OLUMSUZ,Kapsam,TIR
+2025,72,SAİR,SR16,0,DÜZ,Hukuki sonuç,TIR
+2025,73,GM,GM14,0,OLUMSUZ,Mükellef/sorumlu,ev eşyası/şahsi eşya muafiyeti
+2025,74,GM,GM14,0,BOŞLUK,Oran/tutar/eşik,evlilik eşyası
+2025,75,GM,GM14,0,OLUMSUZ,İstisna,çeşitli muafiyetler (numune/kitap/hayır kurumu)
+2025,76,GM,GM14,0,DÜZ,Oran/tutar/eşik,yolcu beraberi eşya
+2025,77,GM,GM15,0,BOŞLUK,Oran/tutar/eşik,posta-hızlı kargo eşikleri
+2025,78,GM,GM08,0,OLUMSUZ,Kapsam,antrepoya konulabilecek eşya
+2025,79,GM,GM22,0,VAKA,Makam/yetki,gümrüksüz satış mağazaları
+2025,80,GM,GM19,0,OLUMSUZ,Yaptırım/ceza,GK 241 usulsüzlük cezası
+2025,81,GM,GM08,0,BOŞLUK,Süre,antrepoda devir
+2025,82,GM,GM08,0,OLUMSUZ,Makam/yetki,götürü teminat (antrepo)
+2025,83,GM,GM08,0,EŞLEŞTİRME,Makam/yetki,antrepo açma/izin şartları
+2025,84,SAİR,SR01,0,OLUMSUZ,Kapsam,5607 suç tipleri/fail/ceza
+2025,85,SAİR,SR01,0,ÖNCÜLLÜ-3,Şart,5607 elkoyma/tasfiye/yönetmelikler
+2025,86,GM,GM10,0,DÜZ,Hukuki sonuç,gümrük kontrolü altında işleme
+2025,87,GM,GM11,0,ÖNCÜLLÜ-3,Hukuki sonuç,geçici ithalattan serbest dolaşıma geçiş (tarih/faiz)
+2025,88,GM,GM11,0,VAKA,Hukuki sonuç,geçici ithalattan serbest dolaşıma geçiş (tarih/faiz)
+2025,89,GM,GM10,0,KAVRAM,Tanım,hariçte işleme
+2025,90,GM,GM20,0,OLUMSUZ,Yaptırım/ceza,YYS kolaylıkları/şartları
+2025,91,GM,GM20,0,DOĞRU,Oran/tutar/eşik,onaylanmış kişi statüsü
+2025,92,GM,GM20,0,OLUMSUZ,Şart,yerinde gümrükleme
+2025,93,GM,GM17,0,OLUMSUZ,Şart,teminat genel hükümleri
+2025,94,GM,GM18,0,DOĞRU,Süre,geri verme-kaldırma halleri
+2025,95,GM,GM17,0,DOĞRU,Süre,tahakkuk/tebliğ/ödeme/itiraz süreleri
+2025,96,SAİR,SR10,0,EŞLEŞTİRME,Belge,INF bilgi formları
+2025,97,SAİR,SR10,0,OLUMSUZ,Kapsam,STA/TTA taraf ülkeler
+2025,98,GM,GM21,0,EŞLEŞTİRME,Usul/prosedür,YGM tespit kodları
+2025,99,GM,GM21,0,DÜZ,Usul/prosedür,asgari ücret tarifesi
+2025,100,GM,GM21,0,DOĞRU,Usul/prosedür,YGM tespit kodları
